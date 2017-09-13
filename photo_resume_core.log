@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.30)  13 AUG 2017 11:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.30)  3 SEP 2017 14:55
 entering extended mode
-**"./Romil Resume.tex"
-("Romil Resume.tex"
+**./photo_resume_core.tex
+(photo_resume_core.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -428,6 +428,14 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box26
 \enitdp@description=\count92
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
 
 Package geometry Warning: Over-specification in `h'-direction.
     `width' (199.16928pt) is ignored.
@@ -440,6 +448,7 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -504,15 +513,15 @@ Package tocloft Info: The document has section divisions on input line 44.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(36.135pt, 525.23788pt, 36.135pt)
-* v-part:(T,H,B)=(36.135pt, 736.64186pt, 72.26999pt)
+* h-part:(L,W,R)=(25.29494pt, 546.918pt, 25.29494pt)
+* v-part:(T,H,B)=(3.61371pt, 823.36565pt, 18.06749pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=525.23788pt
-* \textheight=736.64186pt
-* \oddsidemargin=-36.135pt
-* \evensidemargin=-36.135pt
-* \topmargin=-73.135pt
+* \textwidth=546.918pt
+* \textheight=823.36565pt
+* \oddsidemargin=-46.97505pt
+* \evensidemargin=-46.97505pt
+* \topmargin=-105.65628pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -535,22 +544,22 @@ Package tocloft Info: The document has section divisions on input line 44.
 LaTeX Warning: Unused global option(s):
     [8pt].
 
-("Romil Resume.aux")
-\openout1 = `"Romil Resume.aux"'.
+(photo_resume_core.aux)
+\openout1 = `photo_resume_core.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 40.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -562,15 +571,15 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(36.135pt, 525.23788pt, 36.135pt)
-* v-part:(T,H,B)=(36.135pt, 736.64186pt, 72.26999pt)
+* h-part:(L,W,R)=(25.29494pt, 546.918pt, 25.29494pt)
+* v-part:(T,H,B)=(3.61371pt, 823.36565pt, 18.06749pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=525.23788pt
-* \textheight=736.64186pt
-* \oddsidemargin=-36.135pt
-* \evensidemargin=-36.135pt
-* \topmargin=-73.135pt
+* \textwidth=546.918pt
+* \textheight=823.36565pt
+* \oddsidemargin=-46.97505pt
+* \evensidemargin=-46.97505pt
+* \topmargin=-105.65628pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -648,93 +657,129 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 42.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 44.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 43.
+
+<photo.jpg, id=1, 86.724pt x 115.632pt>
+File: photo.jpg Graphic file (type jpg)
+ <use photo.jpg>
+Package pdftex.def Info: photo.jpg used on input line 43.
+(pdftex.def)             Requested size: 42.67912pt x 56.90543pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 51.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 50.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 51.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 63.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 50.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 51--69
-[][][][][][][] 
+Overfull \hbox (6.0pt too wide) in paragraph at lines 50--66
+ [][][][][][][] 
  []
 
 
-Overfull \hbox (1.27177pt too wide) in paragraph at lines 51--69
-[][] 
+Overfull \hbox (5.26733pt too wide) in paragraph at lines 50--66
+ [][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 51--69
-[][][][][][]  
+Overfull \hbox (6.0pt too wide) in paragraph at lines 50--66
+ [][][][][][] 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 71.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 68.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
 
-Underfull \hbox (badness 1215) detected at line 71
+Underfull \hbox (badness 10000) detected at line 68
 \OT1/phv/m/n/10 Ranked \OT1/phv/b/n/10 1$[]$ \OT1/phv/m/n/10 in \OT1/phv/b/n/10
  Bachelor of Engineering \OT1/phv/m/n/10 in Department of Mechanical Engineerin
-g at LDRP-ITR awarded
+g at LDRP-ITR
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 79--85
-[][][][][][] 
+Overfull \hbox (6.0pt too wide) in paragraph at lines 77--83
+ [][][][][][] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 160--161
-[][][][][][]  
+Overfull \hbox (2.33443pt too wide) in paragraph at lines 77--83
+ [] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 169--170
-[][][][][][]  
+Overfull \hbox (2.33443pt too wide) in paragraph at lines 93--97
+ [] 
  []
 
 
-Overfull \vbox (27.61084pt too high) has occurred while \output is active []
-
-
-[1
-
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 179--184
-[][][][][][] 
+Overfull \hbox (2.33443pt too wide) in paragraph at lines 105--109
+ [] 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 224--225
-[][][][][][]  
+Overfull \hbox (2.33443pt too wide) in paragraph at lines 115--119
+ [] 
  []
 
-[2] ("Romil Resume.aux") ) 
+
+Overfull \hbox (2.33443pt too wide) in paragraph at lines 126--130
+ [] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 137--138
+ [][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 146--147
+ [][][][][][] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 154--158
+ [][][][][][] 
+ []
+
+
+Overfull \hbox (2.33443pt too wide) in paragraph at lines 154--158
+ [] 
+ []
+
+
+Overfull \hbox (2.33443pt too wide) in paragraph at lines 168--171
+ [] 
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 181--182
+ [][][][][][][] 
+ []
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <./photo.jpg>]
+(photo_resume_core.aux) ) 
 Here is how much of TeX's memory you used:
- 3642 strings out of 493323
- 50122 string characters out of 3139066
- 140898 words of memory out of 3000000
- 7128 multiletter control sequences out of 15000+200000
- 16564 words of font info for 29 fonts, out of 3000000 for 9000
+ 3655 strings out of 493323
+ 50515 string characters out of 3139066
+ 141943 words of memory out of 3000000
+ 7136 multiletter control sequences out of 15000+200000
+ 14072 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,7n,35p,401b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.
-enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/
-uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on "Romil Resume.pdf" (2 pages, 81683 bytes).
+ 39i,12n,35p,286b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
+nc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/h
+elvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8
+a.pfb>
+Output written on photo_resume_core.pdf (1 page, 140860 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 36 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
